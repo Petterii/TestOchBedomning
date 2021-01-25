@@ -1,0 +1,13 @@
+C:\Users\crash\Source\Repos\TestBedomning\TestBedomning\bin\Debug\netcoreapp3.1\TestBedomning.exe
+C:\Users\crash\Source\Repos\TestBedomning\TestBedomning\bin\Debug\netcoreapp3.1\TestBedomning.deps.json
+C:\Users\crash\Source\Repos\TestBedomning\TestBedomning\bin\Debug\netcoreapp3.1\TestBedomning.runtimeconfig.json
+C:\Users\crash\Source\Repos\TestBedomning\TestBedomning\bin\Debug\netcoreapp3.1\TestBedomning.runtimeconfig.dev.json
+C:\Users\crash\Source\Repos\TestBedomning\TestBedomning\bin\Debug\netcoreapp3.1\TestBedomning.dll
+C:\Users\crash\Source\Repos\TestBedomning\TestBedomning\bin\Debug\netcoreapp3.1\TestBedomning.pdb
+C:\Users\crash\Source\Repos\TestBedomning\TestBedomning\obj\Debug\netcoreapp3.1\TestBedomning.csprojAssemblyReference.cache
+C:\Users\crash\Source\Repos\TestBedomning\TestBedomning\obj\Debug\netcoreapp3.1\TestBedomning.AssemblyInfoInputs.cache
+C:\Users\crash\Source\Repos\TestBedomning\TestBedomning\obj\Debug\netcoreapp3.1\TestBedomning.AssemblyInfo.cs
+C:\Users\crash\Source\Repos\TestBedomning\TestBedomning\obj\Debug\netcoreapp3.1\TestBedomning.csproj.CoreCompileInputs.cache
+C:\Users\crash\Source\Repos\TestBedomning\TestBedomning\obj\Debug\netcoreapp3.1\TestBedomning.dll
+C:\Users\crash\Source\Repos\TestBedomning\TestBedomning\obj\Debug\netcoreapp3.1\TestBedomning.pdb
+C:\Users\crash\Source\Repos\TestBedomning\TestBedomning\obj\Debug\netcoreapp3.1\TestBedomning.genruntimeconfig.cache
